@@ -9,14 +9,14 @@ Everything here is real code I use for my own projects.
 
 - **[@quickpdfkit_bot](https://t.me/quickpdfkit_bot)**: a file converter inside Telegram. Images → PDF, merge/compress/split PDFs, PDF → JPG, Office → PDF, video/voice → MP3, with a fair per-chat queue and sandboxed converters.
 
-#### Open source (publishing this week)
+#### Open source
 
 | Project | What it does |
 |---|---|
-| telegram-file-converter-bot | The engine behind @quickpdfkit_bot. |
-| telegram-channel-bots | Channel mirror (albums, edits and pins stay in sync), CSV-scheduled poster, lead/form collector. |
-| cdp-cli | A tiny Chrome DevTools Protocol CLI for scripting and testing your own web flows, plus XHR/fetch capture. |
-| evm-audit-toolkit | Keyless verified-source fetch, Foundry in a no-network sandbox, and a practical review checklist. |
+| telegram-file-converter-bot *(coming soon)* | The engine behind @quickpdfkit_bot. |
+| [telegram-channel-bots](https://github.com/swiftbotlab/telegram-channel-bots) | Channel mirror (albums, edits and pins stay in sync), CSV-scheduled poster, lead/form collector. |
+| [cdp-cli](https://github.com/swiftbotlab/cdp-cli) | A tiny Chrome DevTools Protocol CLI for scripting and testing your own web flows, plus XHR/fetch capture. |
+| evm-audit-toolkit *(coming soon)* | Keyless verified-source fetch, Foundry in a no-network sandbox, and a practical review checklist. |
 
 #### Work with me
 
